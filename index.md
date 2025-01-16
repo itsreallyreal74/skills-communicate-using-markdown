@@ -9,3 +9,5 @@
 ## Skills course: Communicate using markdown
 ### Hopefully I can remove these after I upload an official project repo
 ###### Thanks for viewing lol
+
+![Example Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
