@@ -8,6 +8,16 @@
 # -
 ## Skills course: Communicate using markdown
 ### Hopefully I can remove these after I upload an official project repo
-###### Thanks for viewing lol
 
+Here we add the example code followed by a personal testing...
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+```
+$ su
+$ apt update && apt upgrade -y && apt autoremove
+```
+###### Thanks for viewing lol
 ![Example Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
